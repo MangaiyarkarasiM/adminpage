@@ -1,0 +1,15 @@
+.text-color{
+    color: #5a5c69;
+}
+
+.pie-chart{
+    position:relative;
+}
+.pie-chart-rende{
+    position: absolute;
+}
+
+canvas{
+    height: calc(15rem-43px);
+    width: calc(15rem-43px);
+}

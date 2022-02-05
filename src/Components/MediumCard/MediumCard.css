@@ -1,0 +1,16 @@
+.mediumcard{
+    border: none;
+    
+}
+
+.dropdown-menu-right{
+    left: auto;
+}
+
+.dropdowniconcolor{
+    color:#d6dbdb;
+}
+
+.dropdown .dropdown-menu{
+    font-size: 0.85rem;
+}
